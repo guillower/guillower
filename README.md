@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋👋👋 Hola 👋👋👋, 
 
-<!--
-**guillower/guillower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Guille, me gusta trabajar con datos!. 
 
-Here are some ideas to get you started:
+Soy Data Scientist especializado en Big Data y Machine Learning.  Tengo habilidades en R, Python, SQL, Machine learning y reporte con resultados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills en desarrollo
+- Python (pandas, numpy, matplotlib)
+- SQL
+- R
+- Git & GitHub
+- Estadística descriptiva e inferencia.
+- Machine Learning (scikit-learn)
+
+💼 Abierto a prácticas y proyectos colaborativos.
