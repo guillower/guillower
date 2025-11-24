@@ -1,15 +1,19 @@
-# 👋👋👋 Hola 👋👋👋, 
+I'm Guille, and I love working with data!
 
-Soy Guille, me gusta trabajar con datos!. 
+I'm a Data Scientist specialized in Big Data and Machine Learning. I have skills in R, Python, SQL, machine learning, and reporting results.
 
-Soy Data Scientist especializado en Big Data y Machine Learning.  Tengo habilidades en R, Python, SQL, Machine learning y reporte con resultados.
+🧠 Skills in progress
 
-## 🧠 Skills en desarrollo
-- Python (pandas, numpy, matplotlib)
-- SQL
-- R
-- Git & GitHub
-- Estadística descriptiva e inferencia.
-- Machine Learning (scikit-learn)
+ - Python (pandas, numpy, matplotlib)
 
-💼 Abierto a prácticas y proyectos colaborativos.
+ - SQL
+
+ - R
+
+ - Git & GitHub
+
+ - Descriptive and inferential statistics
+
+ - Machine Learning (scikit-learn)
+
+💼 Open to internships and collaborative projects.
